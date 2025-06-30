@@ -1,3 +1,3 @@
-# Reading-List
+# My-Library
 
-A list of books I have read each year
+My open source reading list. I keep track of the books I read each year via updating the corresponding files. 

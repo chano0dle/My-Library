@@ -1,3 +1,3 @@
 # Reading-List
 
-A list of books that I have read each year
+A list of books I have read each year

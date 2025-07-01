@@ -1,3 +1,3 @@
-# Reading-List
+# My-Library
 
-An open source list of the books I have read separated by year
+Lists of the books that I have read each year
